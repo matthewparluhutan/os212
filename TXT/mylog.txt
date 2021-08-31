@@ -1,4 +1,4 @@
-ZCZC W00 720 L73 Bermain Genshin Impact
 ZCZC W00 130 L10 SetUp github pages dan assignment week00
 ZCZC W00 10 L03 Setting up ssh and github repo
 ZCZC W00 5 L04 Setting up github pages
+ZCZC W00 10 L73 Bermain Genshin Impact
