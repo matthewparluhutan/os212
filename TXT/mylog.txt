@@ -6,3 +6,4 @@ ZCZC W01 10 L11 Mengunduh debian dll
 ZCZC W01 85 L09 Melaksanakan assignment 2, 3, dan 6
 ZCZC W01 65 L14 Melakukan assignment 4 sekalian mempelajari hal-hal yang berkaitan
 ZCZC W01 70 L09 Mempelajari untuk assignment 8 dan 9
+ZCZC W01 40 L09 Menyelesaikan semua assignment
