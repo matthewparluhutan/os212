@@ -1,7 +1,6 @@
 ---
----
-
 # OS 212
+---
 ### Operating System Repository
 
 Matthew Tumbur Parluhutan - 1906308500 - OS B
