@@ -1,6 +1,6 @@
 ---
-title: Top 10 Links Week 1
-permalink: /W01/
+title: Top 10 Links
+permalink: /LINKS/
 ---
 
 # Top 10 List for Week 1
