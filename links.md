@@ -27,3 +27,28 @@ Mental Outlaw is a youtube channel that mainly focuses on Linux. The contents ar
 This one. This is it, this is for you guys that are wandering what the differences are between windows and linux. The video explains a lot about the histories of both Operating Systems, the differences, specifications, and which is better to use statistically speaking. It's quite good for quenching your thirst of knowledge or curiousity.
 
 These are all the top 10 links from me, Qatlho' Qapla' je!
+
+# Top 10 List for Week 2
+
+1. [Why Linux Security is Better Than Windows](https://www.computerworld.com/article/3252823/why-linux-is-better-than-windows-or-macos-for-security.html) <br>
+Ever wonder which Operating System has got a better security? In this link you will learn about why Linux's security is far better than that of windows and macos.
+2. []() <br>
+
+3. []() <br>
+
+4. []() <br>
+
+5. []() <br>
+
+6. []() <br>
+
+7. []() <br>
+
+8. []() <br>
+
+9. []() <br>
+
+10. []() <br>
+
+
+These are all the top 10 links from me, Qatlho' Qapla' je!
