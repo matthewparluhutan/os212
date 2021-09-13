@@ -32,8 +32,8 @@ These are all the top 10 links from me, Qatlho' Qapla' je!
 
 1. [Why Linux Security is Better Than Windows](https://www.computerworld.com/article/3252823/why-linux-is-better-than-windows-or-macos-for-security.html) <br>
 Ever wonder which Operating System has got a better security? In this link you will learn about why Linux's security is far better than that of windows and macos.
-2. []() <br>
-
+2. [Top 9 Vulnerabilities](https://www.compuquip.com/blog/cybersecurity-threats-vulnerabilities) <br>
+This site lists 9 common vulnerabilities that pose threats on our cybersecurity.By knowing possible threats on Operating Systems, we can enhance our Operating System to strengthen the Operating System's capability. 
 3. []() <br>
 
 4. []() <br>
