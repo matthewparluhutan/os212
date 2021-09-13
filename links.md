@@ -34,18 +34,20 @@ These are all the top 10 links from me, Qatlho' Qapla' je!
 Ever wonder which Operating System has got a better security? In this link you will learn about why Linux's security is far better than that of windows and macos.
 2. [Top 9 Vulnerabilities](https://www.compuquip.com/blog/cybersecurity-threats-vulnerabilities) <br>
 This site lists 9 common vulnerabilities that pose threats on our cybersecurity.By knowing possible threats on Operating Systems, we can enhance our Operating System to strengthen the Operating System's capability. 
-3. []() <br>
-
-4. []() <br>
-
-5. []() <br>
-
-6. []() <br>
-
-7. []() <br>
-
-8. []() <br>
-
+3. [C-Language](https://www.learn-c.org/) <br>
+I tried to learn some C language today. This website is a good start for that. I practiced C-language's syntax, etc. In this website, you will be guided on how to write a simple C program such as "hello world". And if you are a curious guy like me, there are even advanced C in this website. The website also teaches us the details regarding what a program does, and i recommend this website for you i you are interested in learning some basic C
+4. [How Do Public and Private Key Work?](https://www.preveil.com/blog/public-and-private-key/) <br>
+This website writes about private and public key and how they work. This is basically how they work : 
+Bob wants to send Alice an encrypted email. To do this, Bob takes Alice’s public key and encrypts his message to her. Then, when Alice receives the message, she takes the private key that is known only to her in order to decrypt the message from Bob.
+This website also explains a lot about other things regarding public and private key
+5. [Malware and Viruses](https://www.youtube.com/watch?v=2PvxRmVg7uE&ab_channel=Gadgets360) <br>
+Ever wonder how do malwares and viruses work. Well turns out it works by hijacking an official code and changes many things within. This youtube channel explains more about viruses and other malwares. It also talks about things like trojan horses etc. Why do we need to learn about malware? Well, it's to increase the Operating System's protection against them. As a wiseman once said, "To defeat your enemies, you must first become your enemy"
+6. [RSA Encryption](https://www.youtube.com/watch?v=wXB-V_Keiu8&ab_channel=ArtoftheProblem) <br>
+This video explains about how RSA Encryption algorithm works. It uses many mathematical theories such as Euler, prime factorization, and modular exponentiation. It's interesting how those theories are actually applicable in this cryptography.
+7. [PGP Tutorial](http://aperiodic.net/phil/pgp/tutorial.html) <br>
+This can be used as a guide for learning more about key, encryption and how to use the PGP and GPG. I read some of the stuffs there, it mainly shows a guide for generating a key so far. Even though it doesn't seem much, the explanations are actually pretty specific and interesting.
+8. [How SSH Works](https://www.youtube.com/watch?v=ORcvSkgdA58&ab_channel=Computerphile) <br>
+What is SSH? SSH or Secure Shell connects from computers to computers remotely to connect those PCs. It also covers the problematic datas that are unprotected when connecting remotely so that our confidential datas are not breached. There are many more stuffs that are covered by this youtube video than this problem. I recommend watching this.
 9. []() <br>
 
 10. []() <br>
