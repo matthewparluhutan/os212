@@ -48,9 +48,9 @@ This video explains about how RSA Encryption algorithm works. It uses many mathe
 This can be used as a guide for learning more about key, encryption and how to use the PGP and GPG. I read some of the stuffs there, it mainly shows a guide for generating a key so far. Even though it doesn't seem much, the explanations are actually pretty specific and interesting.
 8. [How SSH Works](https://www.youtube.com/watch?v=ORcvSkgdA58&ab_channel=Computerphile) <br>
 What is SSH? SSH or Secure Shell connects from computers to computers remotely to connect those PCs. It also covers the problematic datas that are unprotected when connecting remotely so that our confidential datas are not breached. There are many more stuffs that are covered by this youtube video than this problem. I recommend watching this.
-9. []() <br>
-
-10. []() <br>
-
+9. [Social Engineering](https://www.pandasecurity.com/en/mediacenter/security/social-engineering/#:~:text=Social%20engineering%20is%20a%20technique,whose%20data%20has%20been%20revealed.) <br>
+How is social engineering related to this week's topic? Well, it's related to the cybersecurity of our Operating Systems. This site talks about how criminals would use social engineering to break into your system, and personally, i think knowing this might help us develop a much better Operating System security. 
+10. [How Secure is 256 bit Security?](https://www.youtube.com/watch?v=S9JGmA5_unY&ab_channel=3Blue1Brown) <br>
+How effective is SHA256 in hashing? well, 256 bit means 2^256 possible hashes. The current world population is about 7 billion lives. Taking that into account, 256 bit Security is supposed to be safe. Well, this link tells us the safety of 256 bit security. I recommend this link if you are interested in this topic :D
 
 These are all the top 10 links from me, Qatlho' Qapla' je!
