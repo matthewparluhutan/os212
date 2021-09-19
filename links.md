@@ -3,7 +3,7 @@ title: Top 10 Links
 permalink: /LINKS/
 ---
 
-# Top 10 List for Week 1
+# Top links (Week 1)
 
 1. [Vi](https://www.cs.colostate.edu/helpdocs/vi.html) <br>
 Talking about vi, vi is pretty important especially when you are faced with a problem regarding things like your .bash_profile. You might want to learn more about vi. Even more reason to learn vi is because it's currently the default editor for UNIX Operating System. If you are interested in learning more, this site is the one for you
@@ -26,9 +26,9 @@ Mental Outlaw is a youtube channel that mainly focuses on Linux. The contents ar
 10. [Windows VS Linux](https://www.youtube.com/watch?v=JZNFLhCkHrY&ab_channel=edureka%21) <br>
 This one. This is it, this is for you guys that are wandering what the differences are between windows and linux. The video explains a lot about the histories of both Operating Systems, the differences, specifications, and which is better to use statistically speaking. It's quite good for quenching your thirst of knowledge or curiousity.
 
-These are all the top 10 links from me, Qatlho' Qapla' je!
+These are all the top links from me, Qatlho' Qapla' je!
 
-# Top 10 List for Week 2
+# Top links (Week 2)
 
 1. [Why Linux Security is Better Than Windows](https://www.computerworld.com/article/3252823/why-linux-is-better-than-windows-or-macos-for-security.html) <br>
 Ever wonder which Operating System has got a better security? In this link you will learn about why Linux's security is far better than that of windows and macos.
@@ -53,4 +53,4 @@ How is social engineering related to this week's topic? Well, it's related to th
 10. [How Secure is 256 bit Security?](https://www.youtube.com/watch?v=S9JGmA5_unY&ab_channel=3Blue1Brown) <br>
 How effective is SHA256 in hashing? well, 256 bit means 2^256 possible hashes. The current world population is about 7 billion lives. Taking that into account, 256 bit Security is supposed to be safe. Well, this link tells us the safety of 256 bit security. I recommend this link if you are interested in this topic :D
 
-These are all the top 10 links from me, Qatlho' Qapla' je!
+These are all the top links from me, Qatlho' Qapla' je, yay meH!!!
