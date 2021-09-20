@@ -54,3 +54,16 @@ How is social engineering related to this week's topic? Well, it's related to th
 How effective is SHA256 in hashing? well, 256 bit means 2^256 possible hashes. The current world population is about 7 billion lives. Taking that into account, 256 bit Security is supposed to be safe. Well, this link tells us the safety of 256 bit security. I recommend this link if you are interested in this topic :D
 
 These are all the top links from me, Qatlho' Qapla' je, yay meH!!!
+
+
+# Top links (Week 3)
+
+1. [What is Mounting?](https://docs.oracle.com/cd/E19455-01/805-7228/6j6q7ueup/index.html)<br>
+What is mounting? How do we do it? If you are interested, this link gives off the general idea of what mounting is. Well, generally speaking as a windows user, i didn't really know either since in windows, the practice is kind of different and we don't really mount stuffs. Linux however, needs to be mounted before a storage can be used. Mounting itself functions as an intermediate between the system root and the storage which allows the system to recognize the storage which we've just created. There are several other explanations that can be read in the link above.
+2. [Mounting and Unmounting](https://www.computerhope.com/unix/umount.htm) <br>
+Well, this one is related to the first link, kind of. Now after reading the article above, i'm expecting you to have already grasped the general idea of what mounting is and what it does. Now, i found the second part of learning more about mounting from the link above. It basically tells us more about mounting in linux. There are informations about the mounting syntax, how to do bind mount, and even specific mountings for filesystem. It is not a fun read if i'm honest with you, but it's far from being unworthy since by reading this article, you will learn a lot. And by a lot, i mean advance stuffs :D
+3. [Linux File System](https://www.tecmint.com/linux-file-system-explained/) <br>
+This link explains a lot about linux filesystems by definition. By reading the link above, i obtained lots of informations by reading this link. There are informations about the partition of the file system, about the booting with BIOS and UEFI, Types of linux file systems, etc. I recommend reading this one if you are interested in knowing more about file system.
+4. [Which partition should we use?](https://www.howtogeek.com/howto/33552/htg-explains-which-linux-file-system-should-you-choose/) <br>
+Still talking about linux file system, after knowing about what file system is, now we are going to talk about which partition to use. It explains a lot about the differences between each file systems, that file systems are more than just implementing read method, on dealing with fragmentations, etc. I recommend reading this too.
+
