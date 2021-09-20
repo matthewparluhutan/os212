@@ -13,3 +13,8 @@ ZCZC W02 20 L25 Mencoba belajar scripting dengan vi
 ZCZC W02 120 L09 Menyelesaikan semua assignment kecuali assignment terakhir
 ZCZC W02 30 l09 Menyelesaikan assignment terakhir
 ZCZC W02 25 L73 Bermain Genshin Impact
+ZCZC W03 55 L09 Mengerjakan W03
+ZCZC W03 70 L06 Mencoba belajar mengenai cybersecurity dan membaca-baca chapter 13 sebelum kelas
+ZCZC W03 20 L05 Mereview kuis tadi pagi serta membaca ulang buku chapter 16 dan 17
+ZCZC W03 15 L21 Mencoba melakukan bash scripting sebentar sebelum kuis
+ZCZC W03 20 L22 Mengerjakan kuis hari senin
