@@ -87,5 +87,21 @@ If you are reading this, then you have completed your journey on my lists sir/ma
 Ever been interested in memory and pointers in general? This website is for you then. It explains a lot about pointers in C language. You should give it a read, it's a good website for those of you to begin.
 2. [What is Virtual Memory](https://www.youtube.com/watch?v=qlH4-oHnBb8&ab_channel=DavidBlack-Schaffer)<br>
 What exactly is a virtual memory? In this video you are going to learn more about what a virtual memory is. Basically if i have to describe it, a virtual memory is a concept of a non-physical memory. How cool is that? What is it for though? For example, let's say a program is directing us into a specific address, and later on we wrote a different code which leads into the same address. We use virtual memory to prevent memory overwriting.
-3. [Paging File? What's that](https://www.youtube.com/watch?v=K2RogbAbqY4&ab_channel=OldGuyGeek)<br> 
+3. [Understanding Linux Job Control Commands](https://www.thegeekdiary.com/understanding-the-job-control-commands-in-linux-bg-fg-and-ctrlz/)<br>
+The website explains about linux job control commands. For example bg, jobs, Ctrl-Z. It's an interesting topic because it's a direct user interface to the Operating System. Well, it's definitely worth a read! 
+4. [Paging File? What's that](https://www.youtube.com/watch?v=K2RogbAbqY4&ab_channel=OldGuyGeek)<br> 
 Now now, we've already learnt about memory from the links above. Next i'm going to intoduce you guys to paging file. What exactly is paging file? It is actually an act of moving a data mapping from your actual memory into your virtual one. Interesting isn't it? You can always check the link above if you are interested :/
+5. [Little Endian VS Big Endian](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)<br>
+If you're here right now, the obviously you've done POK and did great :D Congrats!! Alright, that being said, i expect that you are all familiar with little endian and big endian. Well, i'm not going to say much to you then. This link i've got here is the continuation of that subject. You should read this one. It contains the advantages and disadvantages of both little and big endian. Je vous prie de l'ouvrir ;D
+6. [Malloc, Calloc, Realloc?? What's up with these locs?](https://www.youtube.com/watch?v=lQP4X3odvHE&ab_channel=EngineerMan)
+These are all memory allocations, periodt... Haha just kidding, either way they are really memory allocations. In C language, we've got 3 main functions to allocate some of our memories.Those are malloc(), calloc(), and realloc(). Malloc() receives some parameters on how many bytes do we want to allocated, etc. If you are interested in learning more, you should watch the video and tell me what you think.
+7. [How to implement Malloc, Monsieur Mathieu?](https://www.guru99.com/malloc-in-c-example.html)<br>
+Now that you've watched the videos above (if you haven't then please watch that one before coming here). Well i assume that you've watched that already. Anyways, i've found a link to a good website that explains about the IMPLEMENTATION of malloc. The implementation is written in C (well duh). Well, it's a good read i guess
+8. [Executable Files](https://fileinfo.com/filetypes/executable)<br>
+This link is mainly about types of executable files. Executable files contain code that is run when the file is opened. This link is mainly about the types of these executable files, etc.
+9. [Local VS Global Variable](https://www.guru99.com/local-vs-global-variable.html)<br>
+What about local vs global? Well, there are two kinds of variables, the global one and the local one. This website contains a lot about the differences between local and global variables. We use it all the time when we're coding using python and java, but we don't really notice. Visit the link for more :D
+10. [Cheat Engine](https://www.youtube.com/watch?v=yYVYJdvoI-g&ab_channel=Cheaty)<br>
+If you've ever played games on facebook, you've seen some things about this. Well. there are lots of people who use this on their games. But what exactly is a cheat engine? It's actually quite simple, The program that is. What's being done, it's actually a program that scans the memory for some values, then we can change the interior of the code and tada! That's a cheat. Well for more about cheat engine and what it actually is used for, you can watch the video above.
+
+ghoQ SoH maqoch, ghuH bIpIv'a', Qatlho' Qapla' je, yay meH naDwIj'e'! Huj ghobe' :D
