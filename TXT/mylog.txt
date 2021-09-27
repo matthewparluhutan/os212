@@ -2,19 +2,24 @@ ZCZC W00 130 L10 SetUp github pages dan assignment week00
 ZCZC W00 10 L03 Setting up ssh and github repo
 ZCZC W00 5 L04 Setting up github pages
 ZCZC W00 10 L73 Bermain Genshin Impact
-ZCZC W01 10 L11 Mengunduh debian dll
+ZCZC W01 10 L09 Mengunduh debian dll
 ZCZC W01 85 L09 Melaksanakan assignment 2, 3, dan 6
-ZCZC W01 65 L14 Melakukan assignment 4 sekalian mempelajari hal-hal yang berkaitan
+ZCZC W01 65 L09 Melakukan assignment 4 sekalian mempelajari hal-hal yang berkaitan
 ZCZC W01 70 L09 Mempelajari untuk assignment 8 dan 9
 ZCZC W01 40 L09 Menyelesaikan semua assignment
 ZCZC W01 30 L73 Bermain Genshin Impact
 ZCZC W01 50 L05 Belajar untuk kuis
 ZCZC W02 20 L25 Mencoba belajar scripting dengan vi
 ZCZC W02 120 L09 Menyelesaikan semua assignment kecuali assignment terakhir
-ZCZC W02 30 l09 Menyelesaikan assignment terakhir
+ZCZC W02 30 L09 Menyelesaikan assignment terakhir
 ZCZC W02 25 L73 Bermain Genshin Impact
 ZCZC W03 55 L09 Mengerjakan W03
 ZCZC W03 70 L06 Mencoba belajar mengenai cybersecurity dan membaca-baca chapter 13 sebelum kelas
 ZCZC W03 20 L05 Mereview kuis tadi pagi serta membaca ulang buku chapter 16 dan 17
 ZCZC W03 15 L21 Mencoba melakukan bash scripting sebentar sebelum kuis
 ZCZC W03 20 L22 Mengerjakan kuis hari senin
+ZCZC W04 50 L22 Mengerjakan kuis
+ZCZC W04 100 L02 Kelas OS
+ZCZC W04 30 L05 Belajar kuis OS
+ZCZC W04 40 L06 Mencoba membaca-baca materi online sebelum kelas
+ZCZC W04 125 L14 Menyelesaikan assignment week 4

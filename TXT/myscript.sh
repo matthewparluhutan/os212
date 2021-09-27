@@ -1,8 +1,8 @@
 #!/bin/bash
 # Copyright (C) 2020-2021 Cicak Bin Kadal
 
-# This free document is distributed in the hope that it will be
-# useful, but WITHOUT ANY WARRANTY; without even the implied
+# This free document is distributed in the hope that it will be 
+# useful, but WITHOUT ANY WARRANTY; without even the implied 
 # warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 # REV02 Sun 19 Sep 2021 15:44:11 WIB
@@ -53,3 +53,4 @@ echo "gpg --verify $SHA.asc $SHA"
 gpg --verify $SHA.asc $SHA
 
 exit 0
+

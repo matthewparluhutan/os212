@@ -80,3 +80,12 @@ Now that you've learnt about reading and writing in C, we will move onto the nex
 Have you seen the .tar data type and then thought "hmm is this related to rar?" ? Well the short answer is no. I can explain it. Tar is actually the short for Tarball which is already introduced from the beginning of the course (see os.vlsm.org if you haven't). While it may look like tar is related to rar, it actually isn't. Tar datas are not compressed at all, unlike rar or zip. Tar datas are encrypted and extracting it would required a decryption. So in a sense, maybe they are kind of similar in how they are both processed as a single file and then extracted to obtain the files inside. The forms they both take however is different, as rar and zip actually compressed the files while tarball encrypts it and then producing a PGP key as a result. For more informations that are more accurate, you can try reading the article above. Goodluck !
 
 If you are reading this, then you have completed your journey on my lists sir/madame. Congratulations ghoQ SoH. ghuH bIpIv'a', Qatlho' Qapla' je, yay meH !!!
+
+# Top links (Week 4)
+
+1. [Memory and Pointers](http://cslibrary.stanford.edu/102/)<br>
+Ever been interested in memory and pointers in general? This website is for you then. It explains a lot about pointers in C language. You should give it a read, it's a good website for those of you to begin.
+2. [What is Virtual Memory](https://www.youtube.com/watch?v=qlH4-oHnBb8&ab_channel=DavidBlack-Schaffer)<br>
+What exactly is a virtual memory? In this video you are going to learn more about what a virtual memory is. Basically if i have to describe it, a virtual memory is a concept of a non-physical memory. How cool is that? What is it for though? For example, let's say a program is directing us into a specific address, and later on we wrote a different code which leads into the same address. We use virtual memory to prevent memory overwriting.
+3. [Paging File? What's that](https://www.youtube.com/watch?v=K2RogbAbqY4&ab_channel=OldGuyGeek)<br> 
+Now now, we've already learnt about memory from the links above. Next i'm going to intoduce you guys to paging file. What exactly is paging file? It is actually an act of moving a data mapping from your actual memory into your virtual one. Interesting isn't it? You can always check the link above if you are interested :/
