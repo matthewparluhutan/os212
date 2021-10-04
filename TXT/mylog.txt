@@ -23,4 +23,8 @@ ZCZC W04 100 L02 Kelas OS
 ZCZC W04 30 L05 Belajar kuis OS
 ZCZC W04 40 L06 Mencoba membaca-baca materi online sebelum kelas
 ZCZC W04 125 L14 Menyelesaikan assignment week 4
-ZCZC W04 70 L14 Menyelesaikan link 
+ZCZC W04 70 L14 Menyelesaikan link
+ZCZC W05 20 L22 Mengerjakan kuis
+ZCZC W05 100 L02 Kelas OS
+ZCZC W05 105 L15 Mengerjakan tugas OS
+ZCZC W05 40 L73 Bermain Genshin Impact 
