@@ -105,3 +105,28 @@ What about local vs global? Well, there are two kinds of variables, the global o
 If you've ever played games on facebook, you've seen some things about this. Well. there are lots of people who use this on their games. But what exactly is a cheat engine? It's actually quite simple, The program that is. What's being done, it's actually a program that scans the memory for some values, then we can change the interior of the code and tada! That's a cheat. Well for more about cheat engine and what it actually is used for, you can watch the video above.
 
 ghoQ SoH maqoch, ghuH bIpIv'a', Qatlho' Qapla' je, yay meH naDwIj'e'! Huj ghobe' :D
+
+
+# Top links (Week 5)
+1. [What is Virtual Memory](https://youtu.be/qlH4-oHnBb8)<br>
+If you are wondering what exactly is a virtual memory, this link is for you. I won't go deeper than this because if i spoiled the fun, you wouldn't need to watch it anymore.
+2. [Where does VM Exist?](https://www.quora.com/Where-does-virtual-memory-exists)<br>
+In reality the word virtual means not real. In fact what we do not see it materially. As the word implies, it is virtual. For more explanations, read the post above :D
+3. [Lil puppy linux](https://puppylinux.com/)<br>
+How low can we go in rebooting memories? Low low low low (florida). This puppy linux thing is related to that topic. Please read it.
+4. [Vfork](https://man7.org/linux/man-pages/man2/vfork.2.html)<br>
+This is the linux documentation of vfork and how to use it. It is mentioned in OSC chapter 10, it is quite interesting and related to our next topic below, so you should read this one first.
+5. [Fork vs vfork](https://www.geeksforgeeks.org/difference-between-fork-and-vfork/)<br>
+We have already learnt about fork and vfork. Now what is the difference between the two? In this article you will find out about the differences between fork and vfork and how to use them.
+6. [Memory allocators selection](https://stackoverflow.com/questions/15470560/what-to-choose-between-slab-and-slub-allocator-in-linux-kernel)<br>
+There slab, slub, and slob are the available memory allocators in linux. How do you choose between the three of them? Do you just randomly pick one allocator and go on with life? I don't think so. In this post you would learn more about allocators.
+7. [Page replacement algorithms](https://youtu.be/2XMVk5YA7vA)<br>
+This video will explain a lot about the page replacement algorithms. You should watch this video if you are interested in the algorithms in general.
+8. [Different kinds of memories](https://www.youtube.com/watch?v=dZcszUj5szA&ab_channel=Techquickie)<br>
+There are many kinds of memories. There is DRAM, SRAM, cache, etc. So many types yet the function is the same for all of them. The differences between the usage of each memories will be explained in this video, so you should click on it and watch it yourselves. Q!
+9. [Thrashing](https://www.thecrazyprogrammer.com/2019/02/thrashing-in-operating-system-os.html)<br>
+What's this? well it is a condition where a program needs some extra spaces that are larger than the RAM or when all of the RAM is occupied by other programs, then system would try to allocate some extra spaces from the secondary memory and it will behave like the main memory. For more information on this, you should click the link above and read it yourselves.
+10. [Global vs Local Frame Allocation Processes](https://www.youtube.com/watch?v=INkGpEuO5XA&ab_channel=MarcoCortes)<br>
+This video will help you guys in learning more about global and local frame allocation processes. This video also contains the differences and similarities between the two. You should watch this video as it is fun to watch, and the way they brought the topic to you is kind of interesting and unusual in a good way.
+
+ceux-ci sont les liens pour cette semaine. Voici vous pouvez lire les materiels qu'on besoin facillement. Comprenez-vous bien ! 
