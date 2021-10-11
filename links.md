@@ -130,3 +130,27 @@ What's this? well it is a condition where a program needs some extra spaces that
 This video will help you guys in learning more about global and local frame allocation processes. This video also contains the differences and similarities between the two. You should watch this video as it is fun to watch, and the way they brought the topic to you is kind of interesting and unusual in a good way.
 
 ceux-ci sont les liens pour cette semaine. Voici vous pouvez lire les materiels qu'on besoin facillement. Comprenez-vous bien ! 
+
+# Top links (Week 6)
+1. [Multithreading](https://www.youtube.com/watch?v=7ENFeb-J75k&ab_channel=Computerphile) <br>
+This video is about how multithreading actually works. Explained by a distinguished lecturer Dr. Steve from the University of Nottingham, England. The video tells us more about how multithreading works in C language also how the machine level languages perceive it.
+2. [exec() VS fork()](https://www.youtube.com/watch?v=IFEFVXvjiHY&ab_channel=NesoAcademy) <br>
+If you've tried W06 Demo, you'll stumble upon exec and fork, so i suggest you trying the demos first before continuing. Okay, so basically the fork() system call is used when we want to create a separate, duplicate process of a file while exec() is invoked whenever we need to replace the entire process (that includes threads) of a program in the exec parameter. There are several differences too which will be covered in the video above. Q!
+3. [CPU Process Scheduling](https://www.youtube.com/watch?v=exlaEOVRWQM&ab_channel=Xoviabcs) <br>
+This topic touches back to the memory management subject, well kinda. There exist the FIFO and LIFO principals which will be managed by FCFS, Round Robin, SRTF, and SJF. An example of it in real life is : When you go to the cinema, you'd have to queue for the tickets. The cashier would serve the first one to come, etc. From here on about, the algorithms are picked based on these management conditions, whether you want to serve the first data to come out or the last one.
+4. [Concurrency vs Parallelism](https://www.youtube.com/watch?v=FChZP09Ba4E&ab_channel=DefogTech) <br>
+This video tells a lot about the differences between concurrency and parallelism, when to use them and it even includes some examples on both. I recommend you watching this video (it's very good u know) Q!
+5. [Thread vs Process](https://www.geeksforgeeks.org/difference-between-process-and-thread/) <br>
+We have learnt about threading and process. Now we are going to discuss further about the differences between a thread and a process. A process means any program is in execution while a thread is only a process of several programs. This link will tell you more about those kind of differences between a process and a thread, and i recommend your reading the article.
+6. [Multitask, Multithread, Multiprocess?](https://www.youtube.com/watch?v=Tn0u-IIBmtc&ab_channel=GaryExplains) <br>
+Still related to the previous topics, now we are going to discuss about multitasking, multithreading, and multiprocessing and the differences between those three. The video above is quite clear and won't require me explaining anything further because it's going to spoil the fun of learning it yourselves. Thus, please watch the video to learn more.
+7. [Advantages and Disadvantages of Multithreading](https://docs.oracle.com/cd/E13203_01/tuxedo/tux71/html/pgthr5.htm) <br>
+The link above is about the advantages and the disadvantages of using a multithreaded program. For example, when using multithreading on an application, it certainly will improve the performance and the concurrency of the program but it will also be difficul to apply TDD (Test Driven Developpement) on the program because it would be hard to test the program. There are several more problems and advantages to it that you can see by reading the article above.
+8. [pipe() System Call](https://www.geeksforgeeks.org/pipe-system-call/) <br>
+Now we're moving on to multiprocessing. In multiprocessing, how do we communicate between two processes? Simple answer is to use the pipe() System call. It uses the refered save files with the file descriptor. When using the pipe() system call, we are passing an integer array with the size of 2 where the 0 index acts as the file descriptor to read, while the index 1 acts as the descriptor to write. Basically it, if you want to learn more, please visit the link above.
+9. [Thread Pools](https://docs.oracle.com/javase/tutorial/essential/concurrency/pools.html) <br>
+This is related to concurrency, especially if you've worked with java before, then you must have seen this when having the mockito error. Interesting enough, the thread pools is one of the solution to this problem, and you can read about it in the link above.
+10. [Different states of a process](https://www.tutorialspoint.com/what-are-the-different-states-of-a-process) <br>
+There are different states in a single process. For example, with wait() function (assuming you have already understand about it) we put the process on a blocked status from running. There are two processes in that example which are blocked and running. Of course there exist other statuses aside from those two which will be covered by the link above. The link acts as a cheatsheet when you encounter something related to processing states, so please read it. Q! 
+
+Gratias Vobis Ago quia lectio nexus. Vobis ego gratiam do :D
