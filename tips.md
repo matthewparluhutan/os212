@@ -13,3 +13,7 @@ Nonton ini untuk memotivasi diri dan melupakan kegalauan :D
 Berikut adalah list lagu-lagu yang akan membantu semangat anda saat mengerjakan tugas OS
 4. [Video ini membuat anda lebih semangat](https://www.youtube.com/watch?v=5Wxvq4PVeoo&ab_channel=UnklBall) <br>
 Silahkan menikmati
+5. [Tidak usah stress, tonton ini](https://www.youtube.com/watch?v=L38JfUahCGM&ab_channel=MihizaBeby) <br>
+Video tersebut menggambarkan humor saya setelah selesai mengerjakan tugas
+6. [Lagu penyemangat OS](https://www.youtube.com/watch?v=aCgP8BFjrw4&ab_channel=vector) <br>
+Silahkan menikmati lagu tersebut
