@@ -28,9 +28,12 @@ ZCZC W05 20 L22 Mengerjakan kuis
 ZCZC W05 100 L02 Kelas OS
 ZCZC W05 105 L15 Mengerjakan tugas OS
 ZCZC W05 40 L73 Bermain Genshin Impact 
-ZCZC W06 50 L15 Mengerjakan link
+ZCZC W06 50 L16 Mengerjakan link
 ZCZC W06 20 L22 Mengerjakan kuis OS
 ZCZC W06 35 L05 Belajar kuis OS
+ZCZC W06 110 L16 Mengerjakan tugas OS
 ZCZC W07 50 L05 Belajar kuis OS
 ZCZC W07 20 L22 Mengerjakan kuis OS
-ZCZC W07 65 L15 Mengerjakan link
+ZCZC W07 65 L17 Mengerjakan link
+ZCZC W07 115 L17 Mengerjakan tugas 7 OS
+ZCZC W07 20 L73 Bermain genshin impact
