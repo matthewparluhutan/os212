@@ -154,3 +154,27 @@ This is related to concurrency, especially if you've worked with java before, th
 There are different states in a single process. For example, with wait() function (assuming you have already understand about it) we put the process on a blocked status from running. There are two processes in that example which are blocked and running. Of course there exist other statuses aside from those two which will be covered by the link above. The link acts as a cheatsheet when you encounter something related to processing states, so please read it. Q! 
 
 Gratias Vobis Ago quia lectio nexus. Vobis ego gratiam do :D
+
+# Top links (Week 7)
+1. [Banker's Algorithm](https://rosettacode.org/wiki/Banker%27s_algorithm) <br>
+This article is about the banker's algorithm which i found by surfing my friends recommendation. It's basically the multithreading poster child of google.
+2. [Deadlock?](https://docs.oracle.com/javadb/10.10.1.2/devguide/cdevconcepts28436.html) <br>
+What is a database deadlock? i've been seeing this term when i skimmed through week 07 materials. I searched through the internet, and i found this documentation on oracle about what deadlock is. It's quite an important thing to be discussed about in my opinion.
+3. [Deadlock vs Starvation?](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/) <br>
+What's the difference between deadlock and starvation? By summarization, basically deadlock appears when each process holds a resource and wait for other resource held by other processes, while starvation is the problem that occurs when high priority processes keep executing and low priority processes keep getting blocked indefinitely. For more information, you can check the link above
+4. [Deadlock recovery and detection](https://www.quora.com/Why-dont-Windows-and-Unix-recover-from-deadlock-Why-is-there-no-deadlock-detection-and-recover-algorithm-used) <br>
+This is a way to solve the problem. We can make the algorithm, but it's as if we are trying to run an operating system process that is broken and all. It might work, but not as intended. Thus we can say that in the end the best way to prevent and solve the deadlock proble is by rebooting the machine.
+5. [Linux Kernel is Preemptive!](https://stackoverflow.com/questions/5283501/what-does-it-mean-to-say-linux-kernel-is-preemptive) <br>
+What does it mean?? Well, historically during the 2.5.4 version of linux kernel, it was not preemptive. Meaning, a process running in kernel mode cannot be moved out of processor until it itself leaves the processor or it starts waiting for some input output operation to get complete. So basically the preemptiveness is what allowed those things that i mentioned before.
+6. [Semaphore?](https://www.youtube.com/watch?v=ukM_zzrIeXs&ab_channel=JacobSorber) <br>
+What is semaphore? what does it do? We probably know the semaphore from boyscouts, but is it the same? This video will explain more about the connection between the two. It is actually about synchronization problem solving though.
+7. [Semaphore vs Mutex](https://www.youtube.com/watch?v=DvF3AsTglUU&ab_channel=HowTo) <br>
+This video explains a lot about the difference between mutex and semaphores and when to use them. Both of them are locking mechanisms on a resource. The difference between the two if we must conclude is that the mutex is much simpler compared to the semaphore mechanism. More to that will be explained by the video.
+8. [Dining Philosopher's Problem](https://www.javatpoint.com/os-dining-philosophers-problem) <br>
+The dining philosopher's problem is a classical problem of synchronization. Five philosophers are sitting around a circular table and their job is to think and eat alternatively. A bowl of food is placed at the center of the table along with 5 pairs of chopsticks for them to eat. To eat they need both their right and left chopsticks. In case if both immediate left and right chopsticks are not available, then the philosophers put down their chopstick to rethink. It is a synchronization problem which will be covered in the link above.
+9. [Peterson's Problem](https://www.tutorialspoint.com/peterson-s-problem) <br>
+What is peterson's problem? Its solution provides a good algorithm in solving the critical section problem and illustrated some of the complexities involved in designing softwares that adress the requirements of mutual exclusion etc. Open the article for further infos.
+10. [Race Conditions](https://www.youtube.com/watch?v=FY9livorrJI&ab_channel=CodeVault) <br>
+What is a race condition? you will see this in advance programming. To sum it up, this is a problem that occurs when there are 2 or more program that are accessing or modifying a SINGLE data at the same time. How it occurs and how to handle it will be covered in this video.
+
+yonde kurete arigatou, sore ga kiden tachi wo tasukemasu you ni. Jaa na
