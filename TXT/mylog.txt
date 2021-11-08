@@ -41,3 +41,4 @@ ZCZC W08 20 L73 Bermain genshin impact
 ZCZC W08 115 L18 Mengerjakan link, peer review, dll
 ZCZC W08 100 L05 Belajar kuis OS
 ZCZC W08 20 L22 Mengerjakan kuis
+ZCZC W08 140 L18 Mengerjakan tugas OS sembari belajar LFS
