@@ -178,3 +178,27 @@ What is peterson's problem? Its solution provides a good algorithm in solving th
 What is a race condition? you will see this in advance programming. To sum it up, this is a problem that occurs when there are 2 or more program that are accessing or modifying a SINGLE data at the same time. How it occurs and how to handle it will be covered in this video.
 
 yonde kurete arigatou, sore ga kiden tachi wo tasukemasu you ni. Jaa na
+
+# Top links (Week 8)
+1. [Multi level queues and feedback queues](https://www.youtube.com/watch?v=1w9FybdNi_Y&ab_channel=Uncode-GATEComputerScience) <br>
+Ever wonder about multi level queues and multi level feedback queues? This is the perfect time to watch the video above. This video will explain more about multilevel queues and multi level feedback queues in more detail.
+2. [Speedrunning LFS](https://rachelbythebay.com/w/2020/04/11/pengrun/) <br>
+Once again i'm back with a new topic on speedrunning. This time it's about LFS speedrun. It's a cheat topic to be honest. The concept highlights one of the linux community's feature. This link will explain more about LFS speedrunning.
+3. [Linux Scheduler](https://www.kernel.org/doc/html/latest/scheduler/index.html) <br>
+Linux has this thing called scheduler. Basically in linux, if you have multiple threads, completions that are done through kernel activity will result in a race-free solution. One of the solution is by utilizing the linux scheduler, for more informations on that topic, this documentation link will provide more.
+4. [Preemptive vs Non-Preemptive?](https://www.guru99.com/preemptive-vs-non-preemptive-scheduling.html) <br>
+This topic will cover more on the differences between a preemptive scheduler and a non-preemptive scheduler. Basically the preemptive one is a method where the tasks are assigned alongside their priorities, and are executed based on their priorities. More will be covered by the link above.
+5. [Dispatcher and Scheduler](https://www.geeksforgeeks.org/difference-between-dispatcher-and-scheduler/) <br>
+Schedulers are special system software which handle the process scheduling of multiple threads in various ways, while a dispatcher is a special program which runs AFTER the scheduler. It's function is to give a process control over the CPU after it has been selected by the short-term scheduler. For more details you can visit the link above.
+6. [Too long, didn't read linux from scratch](https://github.com/comfies/tldrlfs) <br>
+This repository above was found while i was trying to find some kind of way to understand LFS without reading it the old conventional way. I found this when i was doing the GSGS and this basically acts as a cheatsheet for you. It is comprised entirely of README files to guide you to understand the bare minimum of LFS.
+7. [Round robin scheduling with different arrival times](https://www.geeksforgeeks.org/round-robin-scheduling-with-different-arrival-times/) <br>
+This algorithm is used to schedule the process fairly for each job a time slot and interrupting the job if it is not completed by then, the job the comes after the other job which arrived in the quantum time that makes these scheduling systems fair. For more information read the article above.
+8. [NUMA](https://www.youtube.com/watch?v=gCOEunP5kjs&ab_channel=JargonsSimplified) <br>
+This video will explain about the Non-Uniform Memory Access policy or NUMA for short. It also explains about the usage and implementation of NUMA within a computer. I suggest your watching the video.
+9. [CPU Scheduling](https://www.u-aizu.ac.jp/~yliu/teaching/os/lec10r.html) <br>
+This link is for learning more about CPU scheduling. How exactly does a CPU manage its own scheduling system from the start to the end. The interesting things such as the simulations for operating systems' randomize conditions are also included. It's a nice read.
+10. [Big O](https://www.bigocheatsheet.com/) <br>
+I'm sure you guys had already taken SDA before or perhaps is currently taking DAA? The big o asymptotic notation would be familiar to you by now i guess. This link above provides the cheatsheet for big O notation. It might help in deciding the runtime complexity of your algorithms within your running processes.
+
+That's it for week 8. Adeus!
