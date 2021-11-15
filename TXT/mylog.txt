@@ -45,3 +45,4 @@ ZCZC W08 140 L18 Mengerjakan tugas OS sembari belajar LFS
 ZCZC W09 20 L05 Kuis OS
 ZCZC W09 10 L19 Mengisi peer rank dll
 ZCZC W09 85 L19 Mencari link yang bagus
+ZCZC W09 95 L19 Mengerjakan tugas OS
