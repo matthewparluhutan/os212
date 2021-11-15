@@ -202,3 +202,27 @@ This link is for learning more about CPU scheduling. How exactly does a CPU mana
 I'm sure you guys had already taken SDA before or perhaps is currently taking DAA? The big o asymptotic notation would be familiar to you by now i guess. This link above provides the cheatsheet for big O notation. It might help in deciding the runtime complexity of your algorithms within your running processes.
 
 That's it for week 8. Adeus!
+
+# Top Liens de la 9eme semaine
+1. [Harddrive inside when it's running](https://www.youtube.com/watch?v=p-JJp-oLx58&ab_channel=VanSvenson) <br>
+This video will show about how a drive looks like when it's used.
+2. [Booloader](https://en.wikipedia.org/wiki/Bootloader)<br>
+This article is enough to explain about the definition and how does a bootloader work.
+3. [Clover Bootloader](https://insmac.org/macosx/3526-clover-efi-bootloader.html) <br>
+This article will cover more about clover bootloader.
+4. [Systemd](http://systemd.io/) <br>
+This article will first explain about the systemd especially on linux.
+5. [Why do people hate systemd](https://www.infoworld.com/article/3159124/linux-why-do-people-hate-systemd.html) <br>
+I found this article about why people be hating on systemd, it's interesting.
+6. [GPT vs MBR](https://www.howtogeek.com/193669/whats-the-difference-between-gpt-and-mbr-when-partitioning-a-drive/)<br>
+This article covers about the differences between drive partitioning.
+7. [SSD Reliability](https://www.backblaze.com/blog/how-reliable-are-ssds/#:~:text=SSD%20Reliability%20Factors%20to%20Consider,magnetic%20fields%20better%20than%20HDDs.)<br>
+This article will cover more about the reliability of the ssd
+8. [UEFI](https://qwords.com/blog/apa-itu-uefi-dan-legacy/) <br>
+This article is written in indonesian. It will tell you about what uefi is and how does it work.
+9. [NAS](https://www.snia.org/education/what-is-nas) <br>
+According to the article, NAS is "A term used to refer to storage devices that connect to a network and provide file access services to computer systems", this article will cover more on that.
+10. [LAN](https://www.cisco.com/c/en/us/products/switches/what-is-a-lan-local-area-network.html) <br>
+LAN stands for local area network. This article will cover about that.
+
+On do na hubahen di minggu on, molo adong na sala, dokhon ma hamuna tu ahu bah!

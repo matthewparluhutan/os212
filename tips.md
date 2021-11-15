@@ -27,3 +27,5 @@ Dengerin dah
 Ini aku bingits
 11. [Wengi wengi](https://twitter.com/Metanoia_LIVE/status/1376814548401803265?s=20) <br>
 Tonton ini untuk membantu belajar algoritma wengi wengi yang digunakan untuk mengatasi masalah synchronisasi yang diterapkan oleh dou mei ni de tian, seorang pakar kelautan asal laos, negara dengan maritim terbaik sedunia
+12. [L'odading de monsieur oleh](https://www.youtube.com/watch?v=iph5iSpQXPU&ab_channel=LogiaUser) <br>
+L'odading de monsieur oleh
