@@ -47,3 +47,4 @@ ZCZC W09 10 L19 Mengisi peer rank dll
 ZCZC W09 85 L19 Mencari link yang bagus
 ZCZC W09 95 L19 Mengerjakan tugas OS
 ZCZC W09 55 L19 Mengerjakan tugas OS sisanya
+ZCZC W09 80 L19 Melakukan chapter 8
