@@ -226,3 +226,31 @@ According to the article, NAS is "A term used to refer to storage devices that c
 LAN stands for local area network. This article will cover about that.
 
 On do na hubahen di minggu on, molo adong na sala, dokhon ma hamuna tu ahu bah!
+
+# Week 10
+1. [PCH](https://en-academic.com/dic.nsf/enwiki/10169522) <br>
+This article will explain further about platform controller hub.
+2. [PCI Express](https://searchdatacenter.techtarget.com/definition/PCI-Express) <br>
+This article is about the peripheral component interconnect express.
+3. [DDR4 SDRAM](https://en.wikipedia.org/wiki/DDR4_SDRAM) <br>
+This wikipedia page shall thee enlighten with its wisdom
+4. [DMI 2.0 VS 3.0](https://forums.tomshardware.com/threads/dmi-3-0-vs-2-0-difference.2895248/) <br>
+Shallst thou enlightened be with this particular article which will thee explain more about DMI 2.0 and 3.0
+5. [SMB](https://en.wikipedia.org/wiki/System_Management_Bus) <br>
+Shallst thou be confused with SMB, thou shallst this open that thou mighst be understanding the concept
+6. [SPI](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) <br>
+This link is about the SPI, you should open it
+7. [SATA](https://en.wikipedia.org/wiki/Serial_ATA#:~:text=Serial%20ATA%20(SATA%2C%20abbreviated%20from,%2C%20and%20solid%2Dstate%20drives.) <br>
+If you want to know more about SATA, open this article and read it.
+8. [Kernel I/O Subsystem](https://iim6.tripod.com/ibam-os-html/x6158.html) <br>
+This link will explain further about the kernel i/o subsystem
+9. [Tuning IO Performance](https://documentation.suse.com/sles/12-SP4/html/SLES-all/cha-tuning-io.html) <br>
+I found this topic to be interesting, read more if you are curious
+10. [DMA](https://binaryterms.com/direct-memory-access-dma.html) <br>
+If you are curious about DMA, read this article. It will help you a lot, for real !
+11. [Méré Méméűle](https://www.youtube.com/watch?v=I4UF_MGRek8&ab_channel=R%CE%9BFLY) <br>
+O afto mémé toropzsek kuaźi kocs rakisek. O kuaźi ű éré hoplekűle kośműdratek
+12. [NANI mir Śoretlek](https://www.youtube.com/watch?v=QbeBhdjW1_w&ab_channel=yuki53) <br>
+Csoretnek o mina e video youtube. Traxmitgek o mina ű stromisti kocs kalismi
+
+Efxaristi kocs o ir ű mèrè artikèl tropostifike, dragatsis na stroma krazite! Qapla'
