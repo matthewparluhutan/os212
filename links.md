@@ -240,7 +240,7 @@ Shallst thou enlightened be with this particular article which will thee explain
 Shallst thou be confused with SMB, thou shallst this open that thou mighst be understanding the concept
 6. [SPI](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) <br>
 This link is about the SPI, you should open it
-7. [SATA](https://en.wikipedia.org/wiki/Serial_ATA#:~:text=Serial%20ATA%20(SATA%2C%20abbreviated%20from,%2C%20and%20solid%2Dstate%20drives.) <br>
+7. [SATA](shorturl.at/ghF47) <br>
 If you want to know more about SATA, open this article and read it.
 8. [Kernel I/O Subsystem](https://iim6.tripod.com/ibam-os-html/x6158.html) <br>
 This link will explain further about the kernel i/o subsystem
